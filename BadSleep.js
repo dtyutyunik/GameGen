@@ -13,7 +13,7 @@ function preload () {
   // Load & Define our game assets
   game.load.image('background', 'backgroundPH.png')
   game.load.image('wall', 'surface1PH.png')
-  game.load.spritesheet('character', 'characterPH.png', 32, 32) //32 refers to the character sprite being used I guess.  When I type in 0 the whole sprite sheet appears.
+  game.load.spritesheet('character', 'characterPH.png', 100, 32) //32 refers to the character sprite being used I guess.  When I type in 0 the whole sprite sheet appears.
 }
 
 function create () {
