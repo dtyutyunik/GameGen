@@ -1,3 +1,4 @@
+
 var config = {
     type: Phaser.AUTO,
     width: 800,
@@ -25,6 +26,7 @@ function preload(){
   this.load.image('cat', 'cat.png');
   // game.load.image('cat', 'cat.png');
 console.log('rpre');
+
 }
 
 function create(){
