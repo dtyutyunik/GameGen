@@ -31,8 +31,8 @@ class Stage1 extends Phaser.Scene{
       });
 
       this.load.image('Carold', 'assets/OldMan_Front.gif',{
-            height:50,
-            width:50
+            height:5,
+            width:5
       });
 
 
@@ -49,27 +49,27 @@ class Stage1 extends Phaser.Scene{
 
      var oldman = this.add.image(400,400, 'Carold');
 
-     for (var i = 0; i < 10; i++) {
-            //get the width and height of the
-            //game from the config file
-            var h = game.config.height;
-            var w = game.config.width;
-
-            //create some random coordinates
-            var x = Phaser.Math.Between(0, w);
-            var y = Phaser.Math.Between(0, h);
-
-            //create a random width
-            var width = Phaser.Math.Between(50, 200);
-            //make a oldman sprite and place it
-            //at the random place
-            var oldman = this.add.sprite(x, y, "Carold");
-
-            //set the width of the sprite
-            oldman.displayWidth = width;
-            //scale evenly
-            oldman.scaleY = oldman.scaleX;
-        }
+     // for (var i = 0; i < 10; i++) {
+     //        //get the width and height of the
+     //        //game from the config file
+     //        var h = game.config.height;
+     //        var w = game.config.width;
+     //
+     //        //create some random coordinates
+     //        var x = Phaser.Math.Between(0, w);
+     //        var y = Phaser.Math.Between(0, h);
+     //
+     //        //create a random width
+     //        var width = Phaser.Math.Between(50, 200);
+     //        //make a oldman sprite and place it
+     //        //at the random place
+     //        var oldman = this.add.sprite(x, y, "Carold");
+     //
+     //        //set the width of the sprite
+     //        oldman.displayWidth = width;
+     //        //scale evenly
+     //        oldman.scaleY = oldman.scaleX;
+     //    }
 
     //block for sheet1 to have pointer behavior
      sheet1.on('pointerover', function () {
@@ -81,7 +81,6 @@ class Stage1 extends Phaser.Scene{
       sheet1.on('pointerout', function () {
 
         this.clearTint();
-
     });
 
     this.input.setDraggable(sheet1);
@@ -117,7 +116,7 @@ class Stage1 extends Phaser.Scene{
   this.input.setDraggable(sheet3);
 
 
-
+  // input drag behavior
     this.input.on('dragstart', function (pointer, gameObject) {
 
         gameObject.setTint(0xff0000);
