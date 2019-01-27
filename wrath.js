@@ -7,7 +7,7 @@ var config = {
        default: 'arcade',
        arcade: {
            gravity: { x: -50 },
-           debug: true,
+           // debug: true,
 
        },
      },
@@ -22,6 +22,9 @@ var config = {
 
 var game = new Phaser.Game(config);
 let old,old2,player,cam,walkRight,walkLeft,sprite,animCloud;
+var timer;
+var winner=0;
+var timerFinish = 60;
 
 function random(speed){
   var r= Math.floor(Math.random() * speed+3) *50;
@@ -53,9 +56,9 @@ function ouch(a, obj){
 
 let num=Math.floor(Math.random() * 2);
 if(num===0){
-  // this.cameras.main.flash(1000);
+  this.cameras.main.flash(1000);
 }else{
-  // this.cameras.main.shake(500);
+  this.cameras.main.shake(500);
 }
 
 
@@ -126,36 +129,51 @@ player = this.physics.add.sprite(0, 142, 'right');
       player.setCollideWorldBounds(true);
 
       this.cameras.main.startFollow(player, true);
-      this.cameras.main.followOffset.set(-100, 0);
+      this.cameras.main.followOffset.set(-150, 0);
+// timer();
+
+}
+function win(){
+  // winner++;
+  cam.flash(5000);
+  // if(winner=1){
+    // window.alert('you got to the end');
+
+  // }
+  // winner++;
 
 
 }
+
+
 function update(delta){
 
 let frequency=Math.floor(delta)
-console.log(frequency);
+// console.log(frequency%120);
+// timeRender()
+
 
 //
 // if(frequency%60==0){
 //
 // }
-  // if(frequency%60==0){
-
+  if(frequency%120>=110){
+    // old2=this.physics.add.sprite(850, random(11), 'cloud');
     // old=this.physics.add.sprite(850, random(11), 'green');
     old2=this.physics.add.sprite(1580, random(11), 'cloud');
 
     old2.anims.load('cloud');
     old2.anims.play('walk',true)
-    // console.log(frequency%60);
-   // old2=this.physics.add.sprite(850, random(11), 'red');
-   // old=this.physics.add.sprite(1580, random(11), 'green');
-
-    // old.displayWidth=50;
-    // old.scaleY=old.scaleX;
-    old2.displayWidth=120;
+   //  // console.log(frequency%60);
+   // // old2=this.physics.add.sprite(850, random(11), 'red');
+   // // old=this.physics.add.sprite(1580, random(11), 'green');
+   //
+   //  // old.displayWidth=50;
+   //  // old.scaleY=old.scaleX;
+    old2.displayWidth=80;
     old2.scaleY=old2.scaleX;
 
-  // }
+  }
 
   //  if(frequency%60<=0){
   //    // console.log(frequency);
@@ -169,12 +187,13 @@ console.log(frequency);
 
 
 
-this.physics.add.collider(player, old);
+this.physics.add.collider(player, old2);
 
-this.physics.add.overlap(player, old, ouch, null, this);
+this.physics.add.overlap(player, old2, ouch, null, this);
 
 if(player.x>=1560){
-  console.log('you got to the end')
+  // window.alert('you got to the end')
+  win();
 }
  let cursors = this.input.keyboard.createCursorKeys();
 
@@ -194,3 +213,18 @@ if(player.x>=1560){
 
 
 }
+
+
+// function timer() {
+//   timer = this.time.create(false); //Create our Timer.
+//   timer.loop(999, updateTimer, this); //Set a TimerEvent to occur every second
+//   timer.start(); //Start the timer running - this is important!  It does not start automatically.
+// }
+//
+// function updateTimer(){
+//   timerFinish--
+// }
+
+// function timeRender() {
+//   // this.debug.text('Energy: ' + timerFinish, 32, 32);
+// }
