@@ -36,7 +36,7 @@ function preload () {
   game.load.spritesheet('rightWalk', 'right.png', 400, 400)
 }
 
-
+//
 
 function create () {
   game.physics.startSystem(Phaser.Physics.ARCADE) //We're going to be using physics, so enable the Arcade Physics system.
