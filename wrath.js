@@ -13,11 +13,12 @@ var config = {
         preload: preload,
         create: create,
         update: update
-    }
+    },
+    camera: true
 };
 
 var game = new Phaser.Game(config);
-let old,old2,player;
+let old,old2,player,cam;
 
 function random(speed){
   var r= Math.floor(Math.random() * speed) *50;
@@ -35,27 +36,45 @@ function preload(){
 
 }
 
+
 function ouch(player, obj){
   obj.destroy();
-  // star.disableBody(true,true);
-  game.camera();
-this.camera.shake(0.01, 100, true, Phaser.Camera.SHAKE_BOTH, true);
+
+let num=Math.floor(Math.random() * 2);
+if(num===0){
+  this.cameras.main.flash(1000);
+}else{
+  this.cameras.main.shake(500);
+}
+// console.log(num);
+
+//
+
+// ;
+// this.cameras.main.resetFX();
+// this.cameras.main.rotation += 0.3;
+// this.cameras.main.fade(.05,500);
+// this.cameras.main.shake(0.05, 500);
+  // this.cameras.main.startFollow(player);
+
+  // console.log(game)
+// this.camera.shake(0.01, 100, true, Phaser.Camera.SHAKE_BOTH, true);
   // this.camera.shake(0.05, 500);
   // console.log('hit');
 }
 
-function shake() {
-
-    //  You can set your own intensity and duration
-
-
-}
 
 function create(){
   // console.log(game.config.physics.gravity.x);
   let gravity=game.config.physics.arcade.gravity;
 
+  this.cameras.main.setSize(game.config.width,game.config.height);
 
+  let cam=this.cameras.main;
+  // cam.duration=300;
+  console.log(cam.shakeEffect);
+
+  // game.world.setBounds(0, 0, 1920, 1200);
 
   player = this.physics.add.sprite(100, 100, 'player');
 
@@ -110,10 +129,14 @@ console.log(player.x)
       this.key_S=this.input.keyboard.addKey(Phaser.Input.Keyboard.KeyCodes.S);
       this.key_D=this.input.keyboard.addKey(Phaser.Input.Keyboard.KeyCodes.D);
 
+// this.cameras.main.startFollow(player);
+// this.cameras.fade(0x000000, 4000);
 
 
-
-
+// this.cameras.main.setBounds(-200,0,game.config.width+200,game.config.height);
+// this.cameras.main.setScroll(player.x);
+// this.cameras.main.startFollow(player);
+// this.cameras.main.startFollow(player, 0.7, 0.7);
 
 }
 function update(delta){
@@ -136,6 +159,7 @@ function update(delta){
 this.physics.add.collider(player, old);
 
 if(this.physics.add.collider(player, old)===true){
+
   console.log('hit');
   // .moveBy(50,50);
 }
@@ -145,6 +169,8 @@ this.physics.add.overlap(player, old, ouch, null, this);
 if(player.x>=745){
   console.log('you got to the end')
 }
+
+// console.log(player.x);
 
         if(this.key_W.isDown){player.y-=3;}
        if(this.key_S.isDown){player.y+=3;}
