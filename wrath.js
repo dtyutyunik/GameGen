@@ -21,7 +21,7 @@ var config = {
 };
 
 var game = new Phaser.Game(config);
-let old,old2,player,cam,walkRight,walkLeft,sprite;
+let old,old2,player,cam,walkRight,walkLeft,sprite,animCloud;
 
 function random(speed){
   var r= Math.floor(Math.random() * speed+3) *50;
@@ -37,20 +37,18 @@ function preload(){
   this.load.image('red', 'assets/red.gif');
   this.load.image('green', 'assets/green.gif');
   this.load.image('background', 'assets/[Wrath] Street destroyed.png');
-
-  // this.load.atlas("atlas", "assets/atlas_name.png", "assets/atlas_name_atlas.json");
-
   this.load.spritesheet('right', 'assets/right.png', { frameWidth: 400, frameHeight: 400 });
+  this.load.spritesheet('toxic', 'assets/cloud.png', { frameWidth: 400, frameHeight: 400 });
 
 }
 
 
 function ouch(a, obj){
   obj.destroy();
-console.log('pp', player.body.gravity.x);
-  // if(player.body.gravity<=0){
+// console.log('pp', player.body.gravity.x);
+
     player.body.gravity.x=50;
-  // }
+
 
 
 let num=Math.floor(Math.random() * 2);
@@ -90,14 +88,27 @@ function create(){
        key: 'walkRight',
        frames: this.anims.generateFrameNumbers('right'),
        frameRate: 20,
-       // yoyo: true,
+       yoyo: true,
        repeat: 0
    };
 
+
+     var toxicConfig = {
+          key: 'cloud',
+          frames: this.anims.generateFrameNumbers('toxic'),
+          frameRate: 14,
+          yoyo: true,
+          repeat: -1
+      };
+
+
 anim = this.anims.create(walkingConfig);
+animCloud = this.anims.create(toxicConfig);
+
 player = this.physics.add.sprite(0, 142, 'right');
 
    player.anims.load('walkRight');
+
 
    player.displayWidth=110;
    player.body.setSize(200, 200, 50, 50);
@@ -110,23 +121,9 @@ player = this.physics.add.sprite(0, 142, 'right');
 
 
   game.canvas.offsetWidth=1600;
-
   game.canvas.clientWidth=2000;
 
-
-
-  player.setCollideWorldBounds(true);
-
-
-
-
-
-      // this.key_A=this.input.keyboard.addKey(Phaser.Input.Keyboard.KeyCodes.A);
-      // this.key_W=this.input.keyboard.addKey(Phaser.Input.Keyboard.KeyCodes.W);
-      //
-      // this.key_S=this.input.keyboard.addKey(Phaser.Input.Keyboard.KeyCodes.S);
-      // this.key_D=this.input.keyboard.addKey(Phaser.Input.Keyboard.KeyCodes.D);
-
+      player.setCollideWorldBounds(true);
 
       this.cameras.main.startFollow(player, true);
       this.cameras.main.followOffset.set(-100, 0);
@@ -136,21 +133,29 @@ player = this.physics.add.sprite(0, 142, 'right');
 function update(delta){
 
 let frequency=Math.floor(delta)
-// console.log(frequency%60);
-  if(frequency%60==0){
+console.log(frequency);
 
-    old=this.physics.add.sprite(850, random(11), 'green');
-    old2=this.physics.add.sprite(1580, random(11), 'red');
+//
+// if(frequency%60==0){
+//
+// }
+  // if(frequency%60==0){
+
+    // old=this.physics.add.sprite(850, random(11), 'green');
+    old2=this.physics.add.sprite(1580, random(11), 'cloud');
+
+    old2.anims.load('cloud');
+    old2.anims.play('walk',true)
     // console.log(frequency%60);
    // old2=this.physics.add.sprite(850, random(11), 'red');
    // old=this.physics.add.sprite(1580, random(11), 'green');
 
-    old.displayWidth=50;
-    old.scaleY=old.scaleX;
-    old2.displayWidth=50;
+    // old.displayWidth=50;
+    // old.scaleY=old.scaleX;
+    old2.displayWidth=120;
     old2.scaleY=old2.scaleX;
 
-  }
+  // }
 
   //  if(frequency%60<=0){
   //    // console.log(frequency);
@@ -172,15 +177,20 @@ if(player.x>=1560){
   console.log('you got to the end')
 }
  let cursors = this.input.keyboard.createCursorKeys();
-// console.log(cursorKeys);
 
-// console.log(player.anims)
-      if(cursors.up.isDown){player.y-=3;player.anims.play('walk',true);}
-      if(cursors.down.isDown){player.y+=3; player.anims.play('walk',true)}
-      if(cursors.left.isDown){player.x-=3;player.anims.play('walk',true)}
-      if(cursors.right.isDown){player.x+=3;player.anims.play('walk',true);}
-    else{
-    // player.anims.play('walk');
-     }
+      if(cursors.up.isDown){player.y-=3;
+
+        player.anims.play('walk',true);}
+      if(cursors.down.isDown){player.y+=3;
+
+        player.anims.play('walk',true)}
+      if(cursors.left.isDown){player.x-=3;
+
+        player.anims.play('walk',true)}
+      if(cursors.right.isDown){
+        player.x+=3;
+
+        player.anims.play('walk',true);}
+
 
 }
