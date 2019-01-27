@@ -1,0 +1,7912 @@
+{
+    "frames": [
+        {
+            "filename": "walkingright_0",
+            "frame": {
+                "x": 0,
+                "y": 0,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_1",
+            "frame": {
+                "x": 16,
+                "y": 0,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_2",
+            "frame": {
+                "x": 32,
+                "y": 0,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_3",
+            "frame": {
+                "x": 48,
+                "y": 0,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_4",
+            "frame": {
+                "x": 64,
+                "y": 0,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_5",
+            "frame": {
+                "x": 80,
+                "y": 0,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_6",
+            "frame": {
+                "x": 96,
+                "y": 0,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_7",
+            "frame": {
+                "x": 112,
+                "y": 0,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_8",
+            "frame": {
+                "x": 128,
+                "y": 0,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_9",
+            "frame": {
+                "x": 144,
+                "y": 0,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_10",
+            "frame": {
+                "x": 160,
+                "y": 0,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_11",
+            "frame": {
+                "x": 176,
+                "y": 0,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_12",
+            "frame": {
+                "x": 192,
+                "y": 0,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_13",
+            "frame": {
+                "x": 208,
+                "y": 0,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_14",
+            "frame": {
+                "x": 224,
+                "y": 0,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_15",
+            "frame": {
+                "x": 240,
+                "y": 0,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_16",
+            "frame": {
+                "x": 256,
+                "y": 0,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_17",
+            "frame": {
+                "x": 272,
+                "y": 0,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_18",
+            "frame": {
+                "x": 288,
+                "y": 0,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_19",
+            "frame": {
+                "x": 0,
+                "y": 16,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_20",
+            "frame": {
+                "x": 16,
+                "y": 16,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_21",
+            "frame": {
+                "x": 32,
+                "y": 16,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_22",
+            "frame": {
+                "x": 48,
+                "y": 16,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_23",
+            "frame": {
+                "x": 64,
+                "y": 16,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_24",
+            "frame": {
+                "x": 80,
+                "y": 16,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_25",
+            "frame": {
+                "x": 96,
+                "y": 16,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_26",
+            "frame": {
+                "x": 112,
+                "y": 16,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_27",
+            "frame": {
+                "x": 128,
+                "y": 16,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_28",
+            "frame": {
+                "x": 144,
+                "y": 16,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_29",
+            "frame": {
+                "x": 160,
+                "y": 16,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_30",
+            "frame": {
+                "x": 176,
+                "y": 16,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_31",
+            "frame": {
+                "x": 192,
+                "y": 16,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_32",
+            "frame": {
+                "x": 208,
+                "y": 16,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_33",
+            "frame": {
+                "x": 224,
+                "y": 16,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_34",
+            "frame": {
+                "x": 240,
+                "y": 16,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_35",
+            "frame": {
+                "x": 256,
+                "y": 16,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_36",
+            "frame": {
+                "x": 272,
+                "y": 16,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_37",
+            "frame": {
+                "x": 288,
+                "y": 16,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_38",
+            "frame": {
+                "x": 0,
+                "y": 32,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_39",
+            "frame": {
+                "x": 16,
+                "y": 32,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_40",
+            "frame": {
+                "x": 32,
+                "y": 32,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_41",
+            "frame": {
+                "x": 48,
+                "y": 32,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_42",
+            "frame": {
+                "x": 64,
+                "y": 32,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_43",
+            "frame": {
+                "x": 80,
+                "y": 32,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_44",
+            "frame": {
+                "x": 96,
+                "y": 32,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_45",
+            "frame": {
+                "x": 112,
+                "y": 32,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_46",
+            "frame": {
+                "x": 128,
+                "y": 32,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_47",
+            "frame": {
+                "x": 144,
+                "y": 32,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_48",
+            "frame": {
+                "x": 160,
+                "y": 32,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_49",
+            "frame": {
+                "x": 176,
+                "y": 32,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_50",
+            "frame": {
+                "x": 192,
+                "y": 32,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_51",
+            "frame": {
+                "x": 208,
+                "y": 32,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_52",
+            "frame": {
+                "x": 224,
+                "y": 32,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_53",
+            "frame": {
+                "x": 240,
+                "y": 32,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_54",
+            "frame": {
+                "x": 256,
+                "y": 32,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_55",
+            "frame": {
+                "x": 272,
+                "y": 32,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_56",
+            "frame": {
+                "x": 288,
+                "y": 32,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_57",
+            "frame": {
+                "x": 0,
+                "y": 48,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_58",
+            "frame": {
+                "x": 16,
+                "y": 48,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_59",
+            "frame": {
+                "x": 32,
+                "y": 48,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_60",
+            "frame": {
+                "x": 48,
+                "y": 48,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_61",
+            "frame": {
+                "x": 64,
+                "y": 48,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_62",
+            "frame": {
+                "x": 80,
+                "y": 48,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_63",
+            "frame": {
+                "x": 96,
+                "y": 48,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_64",
+            "frame": {
+                "x": 112,
+                "y": 48,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_65",
+            "frame": {
+                "x": 128,
+                "y": 48,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_66",
+            "frame": {
+                "x": 144,
+                "y": 48,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_67",
+            "frame": {
+                "x": 160,
+                "y": 48,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_68",
+            "frame": {
+                "x": 176,
+                "y": 48,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_69",
+            "frame": {
+                "x": 192,
+                "y": 48,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_70",
+            "frame": {
+                "x": 208,
+                "y": 48,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_71",
+            "frame": {
+                "x": 224,
+                "y": 48,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_72",
+            "frame": {
+                "x": 240,
+                "y": 48,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_73",
+            "frame": {
+                "x": 256,
+                "y": 48,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_74",
+            "frame": {
+                "x": 272,
+                "y": 48,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_75",
+            "frame": {
+                "x": 288,
+                "y": 48,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_76",
+            "frame": {
+                "x": 0,
+                "y": 64,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_77",
+            "frame": {
+                "x": 16,
+                "y": 64,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_78",
+            "frame": {
+                "x": 32,
+                "y": 64,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_79",
+            "frame": {
+                "x": 48,
+                "y": 64,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_80",
+            "frame": {
+                "x": 64,
+                "y": 64,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_81",
+            "frame": {
+                "x": 80,
+                "y": 64,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_82",
+            "frame": {
+                "x": 96,
+                "y": 64,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_83",
+            "frame": {
+                "x": 112,
+                "y": 64,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_84",
+            "frame": {
+                "x": 128,
+                "y": 64,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_85",
+            "frame": {
+                "x": 144,
+                "y": 64,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_86",
+            "frame": {
+                "x": 160,
+                "y": 64,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_87",
+            "frame": {
+                "x": 176,
+                "y": 64,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_88",
+            "frame": {
+                "x": 192,
+                "y": 64,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_89",
+            "frame": {
+                "x": 208,
+                "y": 64,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_90",
+            "frame": {
+                "x": 224,
+                "y": 64,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_91",
+            "frame": {
+                "x": 240,
+                "y": 64,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_92",
+            "frame": {
+                "x": 256,
+                "y": 64,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_93",
+            "frame": {
+                "x": 272,
+                "y": 64,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_94",
+            "frame": {
+                "x": 288,
+                "y": 64,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_95",
+            "frame": {
+                "x": 0,
+                "y": 80,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_96",
+            "frame": {
+                "x": 16,
+                "y": 80,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_97",
+            "frame": {
+                "x": 32,
+                "y": 80,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_98",
+            "frame": {
+                "x": 48,
+                "y": 80,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_99",
+            "frame": {
+                "x": 64,
+                "y": 80,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_100",
+            "frame": {
+                "x": 80,
+                "y": 80,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_101",
+            "frame": {
+                "x": 96,
+                "y": 80,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_102",
+            "frame": {
+                "x": 112,
+                "y": 80,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_103",
+            "frame": {
+                "x": 128,
+                "y": 80,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_104",
+            "frame": {
+                "x": 144,
+                "y": 80,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_105",
+            "frame": {
+                "x": 160,
+                "y": 80,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_106",
+            "frame": {
+                "x": 176,
+                "y": 80,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_107",
+            "frame": {
+                "x": 192,
+                "y": 80,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_108",
+            "frame": {
+                "x": 208,
+                "y": 80,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_109",
+            "frame": {
+                "x": 224,
+                "y": 80,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_110",
+            "frame": {
+                "x": 240,
+                "y": 80,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_111",
+            "frame": {
+                "x": 256,
+                "y": 80,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_112",
+            "frame": {
+                "x": 272,
+                "y": 80,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_113",
+            "frame": {
+                "x": 288,
+                "y": 80,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_114",
+            "frame": {
+                "x": 0,
+                "y": 96,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_115",
+            "frame": {
+                "x": 16,
+                "y": 96,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_116",
+            "frame": {
+                "x": 32,
+                "y": 96,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_117",
+            "frame": {
+                "x": 48,
+                "y": 96,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_118",
+            "frame": {
+                "x": 64,
+                "y": 96,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_119",
+            "frame": {
+                "x": 80,
+                "y": 96,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_120",
+            "frame": {
+                "x": 96,
+                "y": 96,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_121",
+            "frame": {
+                "x": 112,
+                "y": 96,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_122",
+            "frame": {
+                "x": 128,
+                "y": 96,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_123",
+            "frame": {
+                "x": 144,
+                "y": 96,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_124",
+            "frame": {
+                "x": 160,
+                "y": 96,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_125",
+            "frame": {
+                "x": 176,
+                "y": 96,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_126",
+            "frame": {
+                "x": 192,
+                "y": 96,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_127",
+            "frame": {
+                "x": 208,
+                "y": 96,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_128",
+            "frame": {
+                "x": 224,
+                "y": 96,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_129",
+            "frame": {
+                "x": 240,
+                "y": 96,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_130",
+            "frame": {
+                "x": 256,
+                "y": 96,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_131",
+            "frame": {
+                "x": 272,
+                "y": 96,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_132",
+            "frame": {
+                "x": 288,
+                "y": 96,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_133",
+            "frame": {
+                "x": 0,
+                "y": 112,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_134",
+            "frame": {
+                "x": 16,
+                "y": 112,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_135",
+            "frame": {
+                "x": 32,
+                "y": 112,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_136",
+            "frame": {
+                "x": 48,
+                "y": 112,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_137",
+            "frame": {
+                "x": 64,
+                "y": 112,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_138",
+            "frame": {
+                "x": 80,
+                "y": 112,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_139",
+            "frame": {
+                "x": 96,
+                "y": 112,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_140",
+            "frame": {
+                "x": 112,
+                "y": 112,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_141",
+            "frame": {
+                "x": 128,
+                "y": 112,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_142",
+            "frame": {
+                "x": 144,
+                "y": 112,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_143",
+            "frame": {
+                "x": 160,
+                "y": 112,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_144",
+            "frame": {
+                "x": 176,
+                "y": 112,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_145",
+            "frame": {
+                "x": 192,
+                "y": 112,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_146",
+            "frame": {
+                "x": 208,
+                "y": 112,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_147",
+            "frame": {
+                "x": 224,
+                "y": 112,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_148",
+            "frame": {
+                "x": 240,
+                "y": 112,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_149",
+            "frame": {
+                "x": 256,
+                "y": 112,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_150",
+            "frame": {
+                "x": 272,
+                "y": 112,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_151",
+            "frame": {
+                "x": 288,
+                "y": 112,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_152",
+            "frame": {
+                "x": 0,
+                "y": 128,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_153",
+            "frame": {
+                "x": 16,
+                "y": 128,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_154",
+            "frame": {
+                "x": 32,
+                "y": 128,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_155",
+            "frame": {
+                "x": 48,
+                "y": 128,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_156",
+            "frame": {
+                "x": 64,
+                "y": 128,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_157",
+            "frame": {
+                "x": 80,
+                "y": 128,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_158",
+            "frame": {
+                "x": 96,
+                "y": 128,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_159",
+            "frame": {
+                "x": 112,
+                "y": 128,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_160",
+            "frame": {
+                "x": 128,
+                "y": 128,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_161",
+            "frame": {
+                "x": 144,
+                "y": 128,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_162",
+            "frame": {
+                "x": 160,
+                "y": 128,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_163",
+            "frame": {
+                "x": 176,
+                "y": 128,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_164",
+            "frame": {
+                "x": 192,
+                "y": 128,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_165",
+            "frame": {
+                "x": 208,
+                "y": 128,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_166",
+            "frame": {
+                "x": 224,
+                "y": 128,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_167",
+            "frame": {
+                "x": 240,
+                "y": 128,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_168",
+            "frame": {
+                "x": 256,
+                "y": 128,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_169",
+            "frame": {
+                "x": 272,
+                "y": 128,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_170",
+            "frame": {
+                "x": 288,
+                "y": 128,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_171",
+            "frame": {
+                "x": 0,
+                "y": 144,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_172",
+            "frame": {
+                "x": 16,
+                "y": 144,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_173",
+            "frame": {
+                "x": 32,
+                "y": 144,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_174",
+            "frame": {
+                "x": 48,
+                "y": 144,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_175",
+            "frame": {
+                "x": 64,
+                "y": 144,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_176",
+            "frame": {
+                "x": 80,
+                "y": 144,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_177",
+            "frame": {
+                "x": 96,
+                "y": 144,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_178",
+            "frame": {
+                "x": 112,
+                "y": 144,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_179",
+            "frame": {
+                "x": 128,
+                "y": 144,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_180",
+            "frame": {
+                "x": 144,
+                "y": 144,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_181",
+            "frame": {
+                "x": 160,
+                "y": 144,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_182",
+            "frame": {
+                "x": 176,
+                "y": 144,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_183",
+            "frame": {
+                "x": 192,
+                "y": 144,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_184",
+            "frame": {
+                "x": 208,
+                "y": 144,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_185",
+            "frame": {
+                "x": 224,
+                "y": 144,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_186",
+            "frame": {
+                "x": 240,
+                "y": 144,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_187",
+            "frame": {
+                "x": 256,
+                "y": 144,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_188",
+            "frame": {
+                "x": 272,
+                "y": 144,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_189",
+            "frame": {
+                "x": 288,
+                "y": 144,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_190",
+            "frame": {
+                "x": 0,
+                "y": 160,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_191",
+            "frame": {
+                "x": 16,
+                "y": 160,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_192",
+            "frame": {
+                "x": 32,
+                "y": 160,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_193",
+            "frame": {
+                "x": 48,
+                "y": 160,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_194",
+            "frame": {
+                "x": 64,
+                "y": 160,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_195",
+            "frame": {
+                "x": 80,
+                "y": 160,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_196",
+            "frame": {
+                "x": 96,
+                "y": 160,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_197",
+            "frame": {
+                "x": 112,
+                "y": 160,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_198",
+            "frame": {
+                "x": 128,
+                "y": 160,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_199",
+            "frame": {
+                "x": 144,
+                "y": 160,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_200",
+            "frame": {
+                "x": 160,
+                "y": 160,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_201",
+            "frame": {
+                "x": 176,
+                "y": 160,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_202",
+            "frame": {
+                "x": 192,
+                "y": 160,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_203",
+            "frame": {
+                "x": 208,
+                "y": 160,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_204",
+            "frame": {
+                "x": 224,
+                "y": 160,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_205",
+            "frame": {
+                "x": 240,
+                "y": 160,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_206",
+            "frame": {
+                "x": 256,
+                "y": 160,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_207",
+            "frame": {
+                "x": 272,
+                "y": 160,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_208",
+            "frame": {
+                "x": 288,
+                "y": 160,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_209",
+            "frame": {
+                "x": 0,
+                "y": 176,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_210",
+            "frame": {
+                "x": 16,
+                "y": 176,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_211",
+            "frame": {
+                "x": 32,
+                "y": 176,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_212",
+            "frame": {
+                "x": 48,
+                "y": 176,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_213",
+            "frame": {
+                "x": 64,
+                "y": 176,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_214",
+            "frame": {
+                "x": 80,
+                "y": 176,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_215",
+            "frame": {
+                "x": 96,
+                "y": 176,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_216",
+            "frame": {
+                "x": 112,
+                "y": 176,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_217",
+            "frame": {
+                "x": 128,
+                "y": 176,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_218",
+            "frame": {
+                "x": 144,
+                "y": 176,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_219",
+            "frame": {
+                "x": 160,
+                "y": 176,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_220",
+            "frame": {
+                "x": 176,
+                "y": 176,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_221",
+            "frame": {
+                "x": 192,
+                "y": 176,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_222",
+            "frame": {
+                "x": 208,
+                "y": 176,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_223",
+            "frame": {
+                "x": 224,
+                "y": 176,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_224",
+            "frame": {
+                "x": 240,
+                "y": 176,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_225",
+            "frame": {
+                "x": 256,
+                "y": 176,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_226",
+            "frame": {
+                "x": 272,
+                "y": 176,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_227",
+            "frame": {
+                "x": 288,
+                "y": 176,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_228",
+            "frame": {
+                "x": 0,
+                "y": 192,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_229",
+            "frame": {
+                "x": 16,
+                "y": 192,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_230",
+            "frame": {
+                "x": 32,
+                "y": 192,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_231",
+            "frame": {
+                "x": 48,
+                "y": 192,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_232",
+            "frame": {
+                "x": 64,
+                "y": 192,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_233",
+            "frame": {
+                "x": 80,
+                "y": 192,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_234",
+            "frame": {
+                "x": 96,
+                "y": 192,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_235",
+            "frame": {
+                "x": 112,
+                "y": 192,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_236",
+            "frame": {
+                "x": 128,
+                "y": 192,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_237",
+            "frame": {
+                "x": 144,
+                "y": 192,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_238",
+            "frame": {
+                "x": 160,
+                "y": 192,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_239",
+            "frame": {
+                "x": 176,
+                "y": 192,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_240",
+            "frame": {
+                "x": 192,
+                "y": 192,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_241",
+            "frame": {
+                "x": 208,
+                "y": 192,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_242",
+            "frame": {
+                "x": 224,
+                "y": 192,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_243",
+            "frame": {
+                "x": 240,
+                "y": 192,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_244",
+            "frame": {
+                "x": 256,
+                "y": 192,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_245",
+            "frame": {
+                "x": 272,
+                "y": 192,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_246",
+            "frame": {
+                "x": 288,
+                "y": 192,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_247",
+            "frame": {
+                "x": 0,
+                "y": 208,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_248",
+            "frame": {
+                "x": 16,
+                "y": 208,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_249",
+            "frame": {
+                "x": 32,
+                "y": 208,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_250",
+            "frame": {
+                "x": 48,
+                "y": 208,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_251",
+            "frame": {
+                "x": 64,
+                "y": 208,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_252",
+            "frame": {
+                "x": 80,
+                "y": 208,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_253",
+            "frame": {
+                "x": 96,
+                "y": 208,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_254",
+            "frame": {
+                "x": 112,
+                "y": 208,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_255",
+            "frame": {
+                "x": 128,
+                "y": 208,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_256",
+            "frame": {
+                "x": 144,
+                "y": 208,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_257",
+            "frame": {
+                "x": 160,
+                "y": 208,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_258",
+            "frame": {
+                "x": 176,
+                "y": 208,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_259",
+            "frame": {
+                "x": 192,
+                "y": 208,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_260",
+            "frame": {
+                "x": 208,
+                "y": 208,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_261",
+            "frame": {
+                "x": 224,
+                "y": 208,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_262",
+            "frame": {
+                "x": 240,
+                "y": 208,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_263",
+            "frame": {
+                "x": 256,
+                "y": 208,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_264",
+            "frame": {
+                "x": 272,
+                "y": 208,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_265",
+            "frame": {
+                "x": 288,
+                "y": 208,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_266",
+            "frame": {
+                "x": 0,
+                "y": 224,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_267",
+            "frame": {
+                "x": 16,
+                "y": 224,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_268",
+            "frame": {
+                "x": 32,
+                "y": 224,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_269",
+            "frame": {
+                "x": 48,
+                "y": 224,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_270",
+            "frame": {
+                "x": 64,
+                "y": 224,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_271",
+            "frame": {
+                "x": 80,
+                "y": 224,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_272",
+            "frame": {
+                "x": 96,
+                "y": 224,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_273",
+            "frame": {
+                "x": 112,
+                "y": 224,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_274",
+            "frame": {
+                "x": 128,
+                "y": 224,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_275",
+            "frame": {
+                "x": 144,
+                "y": 224,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_276",
+            "frame": {
+                "x": 160,
+                "y": 224,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_277",
+            "frame": {
+                "x": 176,
+                "y": 224,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_278",
+            "frame": {
+                "x": 192,
+                "y": 224,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_279",
+            "frame": {
+                "x": 208,
+                "y": 224,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_280",
+            "frame": {
+                "x": 224,
+                "y": 224,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_281",
+            "frame": {
+                "x": 240,
+                "y": 224,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_282",
+            "frame": {
+                "x": 256,
+                "y": 224,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_283",
+            "frame": {
+                "x": 272,
+                "y": 224,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_284",
+            "frame": {
+                "x": 288,
+                "y": 224,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_285",
+            "frame": {
+                "x": 0,
+                "y": 240,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_286",
+            "frame": {
+                "x": 16,
+                "y": 240,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_287",
+            "frame": {
+                "x": 32,
+                "y": 240,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_288",
+            "frame": {
+                "x": 48,
+                "y": 240,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_289",
+            "frame": {
+                "x": 64,
+                "y": 240,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_290",
+            "frame": {
+                "x": 80,
+                "y": 240,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_291",
+            "frame": {
+                "x": 96,
+                "y": 240,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_292",
+            "frame": {
+                "x": 112,
+                "y": 240,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_293",
+            "frame": {
+                "x": 128,
+                "y": 240,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_294",
+            "frame": {
+                "x": 144,
+                "y": 240,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_295",
+            "frame": {
+                "x": 160,
+                "y": 240,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_296",
+            "frame": {
+                "x": 176,
+                "y": 240,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_297",
+            "frame": {
+                "x": 192,
+                "y": 240,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_298",
+            "frame": {
+                "x": 208,
+                "y": 240,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_299",
+            "frame": {
+                "x": 224,
+                "y": 240,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_300",
+            "frame": {
+                "x": 240,
+                "y": 240,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_301",
+            "frame": {
+                "x": 256,
+                "y": 240,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_302",
+            "frame": {
+                "x": 272,
+                "y": 240,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_303",
+            "frame": {
+                "x": 288,
+                "y": 240,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_304",
+            "frame": {
+                "x": 0,
+                "y": 256,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_305",
+            "frame": {
+                "x": 16,
+                "y": 256,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_306",
+            "frame": {
+                "x": 32,
+                "y": 256,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_307",
+            "frame": {
+                "x": 48,
+                "y": 256,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_308",
+            "frame": {
+                "x": 64,
+                "y": 256,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_309",
+            "frame": {
+                "x": 80,
+                "y": 256,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_310",
+            "frame": {
+                "x": 96,
+                "y": 256,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_311",
+            "frame": {
+                "x": 112,
+                "y": 256,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_312",
+            "frame": {
+                "x": 128,
+                "y": 256,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_313",
+            "frame": {
+                "x": 144,
+                "y": 256,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_314",
+            "frame": {
+                "x": 160,
+                "y": 256,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_315",
+            "frame": {
+                "x": 176,
+                "y": 256,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_316",
+            "frame": {
+                "x": 192,
+                "y": 256,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_317",
+            "frame": {
+                "x": 208,
+                "y": 256,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_318",
+            "frame": {
+                "x": 224,
+                "y": 256,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_319",
+            "frame": {
+                "x": 240,
+                "y": 256,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_320",
+            "frame": {
+                "x": 256,
+                "y": 256,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_321",
+            "frame": {
+                "x": 272,
+                "y": 256,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_322",
+            "frame": {
+                "x": 288,
+                "y": 256,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_323",
+            "frame": {
+                "x": 0,
+                "y": 272,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_324",
+            "frame": {
+                "x": 16,
+                "y": 272,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_325",
+            "frame": {
+                "x": 32,
+                "y": 272,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_326",
+            "frame": {
+                "x": 48,
+                "y": 272,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_327",
+            "frame": {
+                "x": 64,
+                "y": 272,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_328",
+            "frame": {
+                "x": 80,
+                "y": 272,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_329",
+            "frame": {
+                "x": 96,
+                "y": 272,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_330",
+            "frame": {
+                "x": 112,
+                "y": 272,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_331",
+            "frame": {
+                "x": 128,
+                "y": 272,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_332",
+            "frame": {
+                "x": 144,
+                "y": 272,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_333",
+            "frame": {
+                "x": 160,
+                "y": 272,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_334",
+            "frame": {
+                "x": 176,
+                "y": 272,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_335",
+            "frame": {
+                "x": 192,
+                "y": 272,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_336",
+            "frame": {
+                "x": 208,
+                "y": 272,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_337",
+            "frame": {
+                "x": 224,
+                "y": 272,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_338",
+            "frame": {
+                "x": 240,
+                "y": 272,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_339",
+            "frame": {
+                "x": 256,
+                "y": 272,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_340",
+            "frame": {
+                "x": 272,
+                "y": 272,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_341",
+            "frame": {
+                "x": 288,
+                "y": 272,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_342",
+            "frame": {
+                "x": 0,
+                "y": 288,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_343",
+            "frame": {
+                "x": 16,
+                "y": 288,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_344",
+            "frame": {
+                "x": 32,
+                "y": 288,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_345",
+            "frame": {
+                "x": 48,
+                "y": 288,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_346",
+            "frame": {
+                "x": 64,
+                "y": 288,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_347",
+            "frame": {
+                "x": 80,
+                "y": 288,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_348",
+            "frame": {
+                "x": 96,
+                "y": 288,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_349",
+            "frame": {
+                "x": 112,
+                "y": 288,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_350",
+            "frame": {
+                "x": 128,
+                "y": 288,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_351",
+            "frame": {
+                "x": 144,
+                "y": 288,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_352",
+            "frame": {
+                "x": 160,
+                "y": 288,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_353",
+            "frame": {
+                "x": 176,
+                "y": 288,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_354",
+            "frame": {
+                "x": 192,
+                "y": 288,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_355",
+            "frame": {
+                "x": 208,
+                "y": 288,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_356",
+            "frame": {
+                "x": 224,
+                "y": 288,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_357",
+            "frame": {
+                "x": 240,
+                "y": 288,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_358",
+            "frame": {
+                "x": 256,
+                "y": 288,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_359",
+            "frame": {
+                "x": 272,
+                "y": 288,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_360",
+            "frame": {
+                "x": 288,
+                "y": 288,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_361",
+            "frame": {
+                "x": 0,
+                "y": 304,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_362",
+            "frame": {
+                "x": 16,
+                "y": 304,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_363",
+            "frame": {
+                "x": 32,
+                "y": 304,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_364",
+            "frame": {
+                "x": 48,
+                "y": 304,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_365",
+            "frame": {
+                "x": 64,
+                "y": 304,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_366",
+            "frame": {
+                "x": 80,
+                "y": 304,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_367",
+            "frame": {
+                "x": 96,
+                "y": 304,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_368",
+            "frame": {
+                "x": 112,
+                "y": 304,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_369",
+            "frame": {
+                "x": 128,
+                "y": 304,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_370",
+            "frame": {
+                "x": 144,
+                "y": 304,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_371",
+            "frame": {
+                "x": 160,
+                "y": 304,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_372",
+            "frame": {
+                "x": 176,
+                "y": 304,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_373",
+            "frame": {
+                "x": 192,
+                "y": 304,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_374",
+            "frame": {
+                "x": 208,
+                "y": 304,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_375",
+            "frame": {
+                "x": 224,
+                "y": 304,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_376",
+            "frame": {
+                "x": 240,
+                "y": 304,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_377",
+            "frame": {
+                "x": 256,
+                "y": 304,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_378",
+            "frame": {
+                "x": 272,
+                "y": 304,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_379",
+            "frame": {
+                "x": 288,
+                "y": 304,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_380",
+            "frame": {
+                "x": 0,
+                "y": 320,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_381",
+            "frame": {
+                "x": 16,
+                "y": 320,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_382",
+            "frame": {
+                "x": 32,
+                "y": 320,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_383",
+            "frame": {
+                "x": 48,
+                "y": 320,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_384",
+            "frame": {
+                "x": 64,
+                "y": 320,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_385",
+            "frame": {
+                "x": 80,
+                "y": 320,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_386",
+            "frame": {
+                "x": 96,
+                "y": 320,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_387",
+            "frame": {
+                "x": 112,
+                "y": 320,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_388",
+            "frame": {
+                "x": 128,
+                "y": 320,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_389",
+            "frame": {
+                "x": 144,
+                "y": 320,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_390",
+            "frame": {
+                "x": 160,
+                "y": 320,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_391",
+            "frame": {
+                "x": 176,
+                "y": 320,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_392",
+            "frame": {
+                "x": 192,
+                "y": 320,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_393",
+            "frame": {
+                "x": 208,
+                "y": 320,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_394",
+            "frame": {
+                "x": 224,
+                "y": 320,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_395",
+            "frame": {
+                "x": 240,
+                "y": 320,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_396",
+            "frame": {
+                "x": 256,
+                "y": 320,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_397",
+            "frame": {
+                "x": 272,
+                "y": 320,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_398",
+            "frame": {
+                "x": 288,
+                "y": 320,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_399",
+            "frame": {
+                "x": 0,
+                "y": 336,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_400",
+            "frame": {
+                "x": 16,
+                "y": 336,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_401",
+            "frame": {
+                "x": 32,
+                "y": 336,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_402",
+            "frame": {
+                "x": 48,
+                "y": 336,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_403",
+            "frame": {
+                "x": 64,
+                "y": 336,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_404",
+            "frame": {
+                "x": 80,
+                "y": 336,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_405",
+            "frame": {
+                "x": 96,
+                "y": 336,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_406",
+            "frame": {
+                "x": 112,
+                "y": 336,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_407",
+            "frame": {
+                "x": 128,
+                "y": 336,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_408",
+            "frame": {
+                "x": 144,
+                "y": 336,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_409",
+            "frame": {
+                "x": 160,
+                "y": 336,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_410",
+            "frame": {
+                "x": 176,
+                "y": 336,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_411",
+            "frame": {
+                "x": 192,
+                "y": 336,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_412",
+            "frame": {
+                "x": 208,
+                "y": 336,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_413",
+            "frame": {
+                "x": 224,
+                "y": 336,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_414",
+            "frame": {
+                "x": 240,
+                "y": 336,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_415",
+            "frame": {
+                "x": 256,
+                "y": 336,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_416",
+            "frame": {
+                "x": 272,
+                "y": 336,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_417",
+            "frame": {
+                "x": 288,
+                "y": 336,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_418",
+            "frame": {
+                "x": 0,
+                "y": 352,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_419",
+            "frame": {
+                "x": 16,
+                "y": 352,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_420",
+            "frame": {
+                "x": 32,
+                "y": 352,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_421",
+            "frame": {
+                "x": 48,
+                "y": 352,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_422",
+            "frame": {
+                "x": 64,
+                "y": 352,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_423",
+            "frame": {
+                "x": 80,
+                "y": 352,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_424",
+            "frame": {
+                "x": 96,
+                "y": 352,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_425",
+            "frame": {
+                "x": 112,
+                "y": 352,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_426",
+            "frame": {
+                "x": 128,
+                "y": 352,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_427",
+            "frame": {
+                "x": 144,
+                "y": 352,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_428",
+            "frame": {
+                "x": 160,
+                "y": 352,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_429",
+            "frame": {
+                "x": 176,
+                "y": 352,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_430",
+            "frame": {
+                "x": 192,
+                "y": 352,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_431",
+            "frame": {
+                "x": 208,
+                "y": 352,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_432",
+            "frame": {
+                "x": 224,
+                "y": 352,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_433",
+            "frame": {
+                "x": 240,
+                "y": 352,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_434",
+            "frame": {
+                "x": 256,
+                "y": 352,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_435",
+            "frame": {
+                "x": 272,
+                "y": 352,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_436",
+            "frame": {
+                "x": 288,
+                "y": 352,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_437",
+            "frame": {
+                "x": 0,
+                "y": 368,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_438",
+            "frame": {
+                "x": 16,
+                "y": 368,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_439",
+            "frame": {
+                "x": 32,
+                "y": 368,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_440",
+            "frame": {
+                "x": 48,
+                "y": 368,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_441",
+            "frame": {
+                "x": 64,
+                "y": 368,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_442",
+            "frame": {
+                "x": 80,
+                "y": 368,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_443",
+            "frame": {
+                "x": 96,
+                "y": 368,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_444",
+            "frame": {
+                "x": 112,
+                "y": 368,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_445",
+            "frame": {
+                "x": 128,
+                "y": 368,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_446",
+            "frame": {
+                "x": 144,
+                "y": 368,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_447",
+            "frame": {
+                "x": 160,
+                "y": 368,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_448",
+            "frame": {
+                "x": 176,
+                "y": 368,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_449",
+            "frame": {
+                "x": 192,
+                "y": 368,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_450",
+            "frame": {
+                "x": 208,
+                "y": 368,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_451",
+            "frame": {
+                "x": 224,
+                "y": 368,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_452",
+            "frame": {
+                "x": 240,
+                "y": 368,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_453",
+            "frame": {
+                "x": 256,
+                "y": 368,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_454",
+            "frame": {
+                "x": 272,
+                "y": 368,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_455",
+            "frame": {
+                "x": 288,
+                "y": 368,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_456",
+            "frame": {
+                "x": 0,
+                "y": 384,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_457",
+            "frame": {
+                "x": 16,
+                "y": 384,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_458",
+            "frame": {
+                "x": 32,
+                "y": 384,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_459",
+            "frame": {
+                "x": 48,
+                "y": 384,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_460",
+            "frame": {
+                "x": 64,
+                "y": 384,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_461",
+            "frame": {
+                "x": 80,
+                "y": 384,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_462",
+            "frame": {
+                "x": 96,
+                "y": 384,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_463",
+            "frame": {
+                "x": 112,
+                "y": 384,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_464",
+            "frame": {
+                "x": 128,
+                "y": 384,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_465",
+            "frame": {
+                "x": 144,
+                "y": 384,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_466",
+            "frame": {
+                "x": 160,
+                "y": 384,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_467",
+            "frame": {
+                "x": 176,
+                "y": 384,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_468",
+            "frame": {
+                "x": 192,
+                "y": 384,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_469",
+            "frame": {
+                "x": 208,
+                "y": 384,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_470",
+            "frame": {
+                "x": 224,
+                "y": 384,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_471",
+            "frame": {
+                "x": 240,
+                "y": 384,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_472",
+            "frame": {
+                "x": 256,
+                "y": 384,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_473",
+            "frame": {
+                "x": 272,
+                "y": 384,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_474",
+            "frame": {
+                "x": 288,
+                "y": 384,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_475",
+            "frame": {
+                "x": 0,
+                "y": 400,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_476",
+            "frame": {
+                "x": 16,
+                "y": 400,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_477",
+            "frame": {
+                "x": 32,
+                "y": 400,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_478",
+            "frame": {
+                "x": 48,
+                "y": 400,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_479",
+            "frame": {
+                "x": 64,
+                "y": 400,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_480",
+            "frame": {
+                "x": 80,
+                "y": 400,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_481",
+            "frame": {
+                "x": 96,
+                "y": 400,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_482",
+            "frame": {
+                "x": 112,
+                "y": 400,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_483",
+            "frame": {
+                "x": 128,
+                "y": 400,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_484",
+            "frame": {
+                "x": 144,
+                "y": 400,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_485",
+            "frame": {
+                "x": 160,
+                "y": 400,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_486",
+            "frame": {
+                "x": 176,
+                "y": 400,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_487",
+            "frame": {
+                "x": 192,
+                "y": 400,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_488",
+            "frame": {
+                "x": 208,
+                "y": 400,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_489",
+            "frame": {
+                "x": 224,
+                "y": 400,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_490",
+            "frame": {
+                "x": 240,
+                "y": 400,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_491",
+            "frame": {
+                "x": 256,
+                "y": 400,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_492",
+            "frame": {
+                "x": 272,
+                "y": 400,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_493",
+            "frame": {
+                "x": 288,
+                "y": 400,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_494",
+            "frame": {
+                "x": 0,
+                "y": 416,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_495",
+            "frame": {
+                "x": 16,
+                "y": 416,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_496",
+            "frame": {
+                "x": 32,
+                "y": 416,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_497",
+            "frame": {
+                "x": 48,
+                "y": 416,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_498",
+            "frame": {
+                "x": 64,
+                "y": 416,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_499",
+            "frame": {
+                "x": 80,
+                "y": 416,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_500",
+            "frame": {
+                "x": 96,
+                "y": 416,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_501",
+            "frame": {
+                "x": 112,
+                "y": 416,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_502",
+            "frame": {
+                "x": 128,
+                "y": 416,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_503",
+            "frame": {
+                "x": 144,
+                "y": 416,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_504",
+            "frame": {
+                "x": 160,
+                "y": 416,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_505",
+            "frame": {
+                "x": 176,
+                "y": 416,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_506",
+            "frame": {
+                "x": 192,
+                "y": 416,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_507",
+            "frame": {
+                "x": 208,
+                "y": 416,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_508",
+            "frame": {
+                "x": 224,
+                "y": 416,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_509",
+            "frame": {
+                "x": 240,
+                "y": 416,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_510",
+            "frame": {
+                "x": 256,
+                "y": 416,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_511",
+            "frame": {
+                "x": 272,
+                "y": 416,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_512",
+            "frame": {
+                "x": 288,
+                "y": 416,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_513",
+            "frame": {
+                "x": 0,
+                "y": 432,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_514",
+            "frame": {
+                "x": 16,
+                "y": 432,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_515",
+            "frame": {
+                "x": 32,
+                "y": 432,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_516",
+            "frame": {
+                "x": 48,
+                "y": 432,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_517",
+            "frame": {
+                "x": 64,
+                "y": 432,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_518",
+            "frame": {
+                "x": 80,
+                "y": 432,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_519",
+            "frame": {
+                "x": 96,
+                "y": 432,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_520",
+            "frame": {
+                "x": 112,
+                "y": 432,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_521",
+            "frame": {
+                "x": 128,
+                "y": 432,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_522",
+            "frame": {
+                "x": 144,
+                "y": 432,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_523",
+            "frame": {
+                "x": 160,
+                "y": 432,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_524",
+            "frame": {
+                "x": 176,
+                "y": 432,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_525",
+            "frame": {
+                "x": 192,
+                "y": 432,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_526",
+            "frame": {
+                "x": 208,
+                "y": 432,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_527",
+            "frame": {
+                "x": 224,
+                "y": 432,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_528",
+            "frame": {
+                "x": 240,
+                "y": 432,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_529",
+            "frame": {
+                "x": 256,
+                "y": 432,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_530",
+            "frame": {
+                "x": 272,
+                "y": 432,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_531",
+            "frame": {
+                "x": 288,
+                "y": 432,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_532",
+            "frame": {
+                "x": 0,
+                "y": 448,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_533",
+            "frame": {
+                "x": 16,
+                "y": 448,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_534",
+            "frame": {
+                "x": 32,
+                "y": 448,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_535",
+            "frame": {
+                "x": 48,
+                "y": 448,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_536",
+            "frame": {
+                "x": 64,
+                "y": 448,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_537",
+            "frame": {
+                "x": 80,
+                "y": 448,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_538",
+            "frame": {
+                "x": 96,
+                "y": 448,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_539",
+            "frame": {
+                "x": 112,
+                "y": 448,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_540",
+            "frame": {
+                "x": 128,
+                "y": 448,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_541",
+            "frame": {
+                "x": 144,
+                "y": 448,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_542",
+            "frame": {
+                "x": 160,
+                "y": 448,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_543",
+            "frame": {
+                "x": 176,
+                "y": 448,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_544",
+            "frame": {
+                "x": 192,
+                "y": 448,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_545",
+            "frame": {
+                "x": 208,
+                "y": 448,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_546",
+            "frame": {
+                "x": 224,
+                "y": 448,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_547",
+            "frame": {
+                "x": 240,
+                "y": 448,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_548",
+            "frame": {
+                "x": 256,
+                "y": 448,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_549",
+            "frame": {
+                "x": 272,
+                "y": 448,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_550",
+            "frame": {
+                "x": 288,
+                "y": 448,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_551",
+            "frame": {
+                "x": 0,
+                "y": 464,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_552",
+            "frame": {
+                "x": 16,
+                "y": 464,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_553",
+            "frame": {
+                "x": 32,
+                "y": 464,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_554",
+            "frame": {
+                "x": 48,
+                "y": 464,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_555",
+            "frame": {
+                "x": 64,
+                "y": 464,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_556",
+            "frame": {
+                "x": 80,
+                "y": 464,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_557",
+            "frame": {
+                "x": 96,
+                "y": 464,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_558",
+            "frame": {
+                "x": 112,
+                "y": 464,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_559",
+            "frame": {
+                "x": 128,
+                "y": 464,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_560",
+            "frame": {
+                "x": 144,
+                "y": 464,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_561",
+            "frame": {
+                "x": 160,
+                "y": 464,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_562",
+            "frame": {
+                "x": 176,
+                "y": 464,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_563",
+            "frame": {
+                "x": 192,
+                "y": 464,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_564",
+            "frame": {
+                "x": 208,
+                "y": 464,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_565",
+            "frame": {
+                "x": 224,
+                "y": 464,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_566",
+            "frame": {
+                "x": 240,
+                "y": 464,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_567",
+            "frame": {
+                "x": 256,
+                "y": 464,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_568",
+            "frame": {
+                "x": 272,
+                "y": 464,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_569",
+            "frame": {
+                "x": 288,
+                "y": 464,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_570",
+            "frame": {
+                "x": 0,
+                "y": 480,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_571",
+            "frame": {
+                "x": 16,
+                "y": 480,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_572",
+            "frame": {
+                "x": 32,
+                "y": 480,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_573",
+            "frame": {
+                "x": 48,
+                "y": 480,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_574",
+            "frame": {
+                "x": 64,
+                "y": 480,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_575",
+            "frame": {
+                "x": 80,
+                "y": 480,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_576",
+            "frame": {
+                "x": 96,
+                "y": 480,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_577",
+            "frame": {
+                "x": 112,
+                "y": 480,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_578",
+            "frame": {
+                "x": 128,
+                "y": 480,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_579",
+            "frame": {
+                "x": 144,
+                "y": 480,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_580",
+            "frame": {
+                "x": 160,
+                "y": 480,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_581",
+            "frame": {
+                "x": 176,
+                "y": 480,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_582",
+            "frame": {
+                "x": 192,
+                "y": 480,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_583",
+            "frame": {
+                "x": 208,
+                "y": 480,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_584",
+            "frame": {
+                "x": 224,
+                "y": 480,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_585",
+            "frame": {
+                "x": 240,
+                "y": 480,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_586",
+            "frame": {
+                "x": 256,
+                "y": 480,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_587",
+            "frame": {
+                "x": 272,
+                "y": 480,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_588",
+            "frame": {
+                "x": 288,
+                "y": 480,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_589",
+            "frame": {
+                "x": 0,
+                "y": 496,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_590",
+            "frame": {
+                "x": 16,
+                "y": 496,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_591",
+            "frame": {
+                "x": 32,
+                "y": 496,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_592",
+            "frame": {
+                "x": 48,
+                "y": 496,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_593",
+            "frame": {
+                "x": 64,
+                "y": 496,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_594",
+            "frame": {
+                "x": 80,
+                "y": 496,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_595",
+            "frame": {
+                "x": 96,
+                "y": 496,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_596",
+            "frame": {
+                "x": 112,
+                "y": 496,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_597",
+            "frame": {
+                "x": 128,
+                "y": 496,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_598",
+            "frame": {
+                "x": 144,
+                "y": 496,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_599",
+            "frame": {
+                "x": 160,
+                "y": 496,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_600",
+            "frame": {
+                "x": 176,
+                "y": 496,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_601",
+            "frame": {
+                "x": 192,
+                "y": 496,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_602",
+            "frame": {
+                "x": 208,
+                "y": 496,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_603",
+            "frame": {
+                "x": 224,
+                "y": 496,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_604",
+            "frame": {
+                "x": 240,
+                "y": 496,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_605",
+            "frame": {
+                "x": 256,
+                "y": 496,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_606",
+            "frame": {
+                "x": 272,
+                "y": 496,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "walkingright_607",
+            "frame": {
+                "x": 288,
+                "y": 496,
+                "w": 16,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        }
+    ],
+    "meta": {
+        "description": "Atlas generado con Atlas Packer Phaser3",
+        "web": "https://gammafp.github.io/atlas-packer-phaser/"
+    }
+}
