@@ -11,3 +11,5 @@ The Game was built using Phaser.js
 The Team, from left to right:
 (Carlos Abdu, Douglas Rysdyk, Dmitriy Tyutyunik, Gabriel Lemaine, Nicky, Mansa)
 ![Team](team.jpg)
+
+[Link to deployed game](bad-sleep.surge.sh)
