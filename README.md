@@ -12,4 +12,4 @@ The Team, from left to right:
 (Carlos Abdu, Douglas Rysdyk, Dmitriy Tyutyunik, Gabriel Lemaine, Nicky, Mansa)
 ![Team](team.jpg)
 
-Link to deployed game <bad-sleep.surge.sh>
+Link to deployed game <http://bad-sleep.surge.sh>
